@@ -19,5 +19,7 @@ Run **PortmasterOfflineBuilder.ps1** with powershell, it will :
 - Download **portmaster-start** and run it.
 - **portmaster-start** will manage all the required downloads and integrity checks
 - Run **makensis.exe** in order to build the installer using **portmaster-installer.nsi** script
-- **portmaster-installer-offline.exe** will be created in the same directory
+- **portmaster-installer-offline.exe** will be created in the same directory (~300mb)
 - Clean all downloaded stuff
+
+![Logo](screenshot.png)

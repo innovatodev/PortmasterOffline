@@ -14,6 +14,12 @@ NSIS is included so you don't have to install it.
 
 Clone/Download this repository
 
+Please make sure to extract/clone this repository in a directory **without SPACES in the name**
+
+False : C:\Some thing\PortmasterOffline
+
+True: C:\Something\PortmasterOffline
+
 Run **PortmasterOfflineBuilder.ps1** with powershell, it will :
 
 - Download **portmaster-start** and run it.
